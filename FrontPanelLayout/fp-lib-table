@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name streamboard)(type KiCad)(uri "$(KIPRJMOD)/streamboard.pretty")(options "")(descr ""))
+)
